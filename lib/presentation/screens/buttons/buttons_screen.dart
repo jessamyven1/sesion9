@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:widgets_app/config/theme/app_theme.dart';
+
 
 class ButtonsScreen
  extends StatelessWidget {
@@ -26,9 +26,9 @@ class ButtonsScreen
 }
 
 class _ButtonsView extends StatelessWidget {
-  const _ButtonsView({
-    super.key,
-  });
+  const _ButtonsView(
+
+  );
 
   @override
   Widget build(BuildContext context) {
